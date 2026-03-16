@@ -34,7 +34,7 @@ Nástroj je jeden HTML soubor bez externích závislostí. Můžete ho:
 
 - **Vložit jako iframe** do interaktivní osnovy:
   ```html
-  <iframe src="https://TVUJ-USERNAME.github.io/od-problemu-k-projektu/" width="100%" height="800" style="border:none;border-radius:12px;"></iframe>
+  <iframe src="https://katerina-svi.github.io/od-problemu-k-projektu/" width="100%" height="800" style="border:none;border-radius:12px;"></iframe>
   ```
 - **Sdílet jako odkaz** přímo na GitHub Pages URL
 
